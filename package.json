@@ -1,0 +1,23 @@
+{
+  "name": "npm_exercise",
+  "version": "1.0.0",
+  "description": "npm exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT122/npm_exercise"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "Prodan Boyadzhiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT122/npm_exercise/issues"
+  },
+  "homepage": "https://github.com/IT122/npm_exercise#readme"
+}
